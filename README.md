@@ -1,7 +1,7 @@
 # PAT
 Questionnaire for PAT
 
-rün
+Grün
 Bisogno < 3
 Sicurezza >= 4
 
