@@ -611,6 +611,7 @@ body.preload #header .content .inner {
 }
 
 #main article .btn {
+  background-color: #fff;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
